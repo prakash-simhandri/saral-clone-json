@@ -1,0 +1,523 @@
+[
+  {
+    "name": "Learning HTML and CSS (Ek naya naam)",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": "1",
+    "exercise": [
+      {
+        "name": "prakash",
+        "description": "es cours me hame Happy kayse raha sakate hai oo sekhenge .",
+        "courseId": "1",
+        "id": "1",
+        "submissions": [
+          {
+            "id": 1,
+            "courseId": 1,
+            "exerciseId": 1,
+            "content": "Yaha aapki submissions ka content.",
+            "userName": "prakash"
+          },
+          {
+            "id": 2,
+            "courseId": 1,
+            "exerciseId": 1,
+            "content": "Yaha aapki submissions ka content.",
+            "userName": "Aadil"
+          }
+        ]
+      },
+      {
+        "name": "Tags",
+        "description": "es cours me naya tags ke bare me janeng.",
+        "courseId": "1",
+        "id": 2,
+        "submissions": [
+          {
+            "id": 1,
+            "courseId": 1,
+            "exerciseId": 2,
+            "content": "Yaha aapki submissions ka content.",
+            "userName": "hemant"
+          },
+          {
+            "id": 2,
+            "courseId": 1,
+            "exerciseId": 2,
+            "content": "Yaha aapki submissions ka content.",
+            "userName": "chinna"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IIt",
+    "description": "Es couress me hame IIT kya hotaha hai wo padhanine",
+    "id": "2",
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 2,
+        "id": 1,
+        "submissions": []
+      },
+      {
+        "name": "Hcaking",
+        "description": "es cours me hame Hacking types ke bare me janein ge.",
+        "courseId": "2",
+        "id": 2,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Learning JavaScript",
+    "description": "Iss course mein hum ache se shayad js seekh jayein..",
+    "id": 3,
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 3,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Larneing Prakash",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": "4",
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 4,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Learning Jagan ",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 5,
+    "exercise": [
+      {
+        "name": "prakash",
+        "description": "es cours me hame Happy kayse raha sakate hai oo sekhenge .",
+        "courseId": "5",
+        "id": "1",
+        "submissions": [
+          {
+            "userName": "hemanth",
+            "content": "bahi le kinen saran achese nahi chalata",
+            "courseId": "5",
+            "exerciseId": "1",
+            "id": 1
+          }
+        ]
+      },
+      {
+        "name": "happy",
+        "description": "es cours me hame Happy kayse raha sakate hai oo sekhenge .",
+        "courseId": "5",
+        "id": 2,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Learning me",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 6,
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 6,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Learning yogendra",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 7,
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 7,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Learning Anoop and Anand",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 8,
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 8,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Ruby on Rails",
+    "description": "Is me hum Ruby on Rails Seekhenge.",
+    "id": 9,
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 9,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Learning Javascript (Ek naya naam)",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge in Navgurukul.",
+    "id": 10,
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 10,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Learning HTML/CSS",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 11,
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 11,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Learning HTML/CSS and javascript",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 12,
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 12,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Learning HTML/CSS",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 13,
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 13,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Learning HTML/CSS",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 14,
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 14,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Jai",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 15,
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 15,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Learning HTML/CSS",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 16,
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 16,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Learning HTML/CSS",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 17,
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 17,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Learning HTML/CSS",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 18,
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 18,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Learning HTML/CSS",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 19,
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 19,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Learning PRATIK",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 20,
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 20,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Learning HTML/CSS",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 21,
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 21,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Prakash",
+    "description": "Prakash ke bare me kuch janate hai",
+    "id": "22",
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 22,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Learning HTML/CSS",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 23,
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 23,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Introduction",
+    "description": "Iss exercise mein aapne yeh sab karna hai.",
+    "id": 24,
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 24,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Introduction to Rohit",
+    "description": "Iss exercise mein aapne yeh sab karna hai.",
+    "id": 25,
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 25,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Learning HTML/CSS",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 26,
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 26,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Learning HTML/CSS",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 27,
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 27,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Learning HTML/CSS",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 28,
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 28,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Learning HTML/CSS",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 29,
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 29,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "AI",
+    "description": "Es couress me ham log Ek Artificial intelligence banyaenge.",
+    "id": 30,
+    "exercise": [
+      {
+        "name": "if-else",
+        "description": "you will learn the ifelse",
+        "courseId": 30,
+        "id": 1,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Timepass",
+    "description": "Jab bor lage to kya karana chahia",
+    "id": 31,
+    "exercise": [
+      {
+        "name": "Engeiar",
+        "description": "es cours me hame Enginear types ke bare me janein ge.",
+        "courseId": "31",
+        "id": "1",
+        "submissions": []
+      },
+      {
+        "name": "happy",
+        "description": "es cours me hame Happy kayse raha sakate hai oo sekhenge .",
+        "courseId": "31",
+        "id": 2,
+        "submissions": []
+      }
+    ]
+  },
+  {
+    "name": "Navgurukul",
+    "description": "Ham navgurukul kya hai janeng.",
+    "id": 32,
+    "exercise": [
+      {
+        "name": "Engeiar",
+        "description": "es cours me hame Enginear types ke bare me janein ge.",
+        "courseId": "32",
+        "id": "1",
+        "submissions": [
+          {
+            "content": "Nice corse",
+            "courseId": "32",
+            "exerciseId": "1",
+            "id": 1
+          }
+        ]
+      }
+    ]
+  }
+]
